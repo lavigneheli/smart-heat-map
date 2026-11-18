@@ -10,3 +10,13 @@ Este repositório contém a **tela de login**. O aplicativo em si fica em um esp
 - A chave usada no front-end é a `anon` (pública). A `service_role` nunca é usada aqui.
 
 Projeto independente de Helen Lavigne Almeida Martins.
+
+
+## Acesso de demonstração
+
+Para quem está avaliando o projeto: https://smart-heat-map.vercel.app/
+
+- E-mail: `demo@smartheatmap.app`
+- Senha: `HeatMap-Demo-2026`
+
+Conta somente para demonstração. Os cadastros públicos são fechados.
